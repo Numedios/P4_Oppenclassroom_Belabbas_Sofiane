@@ -7,6 +7,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* ajout */
+
+.hide{
+    display: none;
+}
+
+
+/* fin ajout*/
+
+
 a,
 button {
     transition: all .3s ease-in-out;
