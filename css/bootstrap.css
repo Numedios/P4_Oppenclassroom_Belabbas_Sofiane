@@ -104,7 +104,7 @@ sub {
 
 img {
     border: 0;
-    width: 100%;
+    
 }
 
 svg:not(:root) {
@@ -1438,6 +1438,7 @@ img {
 .thumbnail>img {
     display: block;
     max-width: 100%;
+    width: 100%;
     height: auto
 }
 
